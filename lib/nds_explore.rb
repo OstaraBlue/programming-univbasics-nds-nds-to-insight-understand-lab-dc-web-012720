@@ -25,7 +25,7 @@ def print_first_directors_movie_titles
     movie_list << inner_results
     row_index += 1
   end
-  movie_list
+  p movie_list
 end
 
 print_first_directors_movie_titles
